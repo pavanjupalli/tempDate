@@ -9,12 +9,7 @@ environment {
 agent any
 stages {
 stage('build') {
-      cmd_exec('echo "Buils starting..."')
-      cmd_exec('mvn compile')
-}
-
-def cmd_exec(command) {
-    return bat(returnStdout: true, script: "${command}").trim()
+   bat label:'yaa', script:'mvn compile'
 }
 }
 }
