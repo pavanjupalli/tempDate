@@ -2,7 +2,7 @@ pipeline {
 environment {
 
     PATH = "C:\\Windows\\System32"
-    M2_HOME = "E:\Chrome\Software\apache-maven-3.6.3-bin\apache-maven-3.6.3"
+    M2_HOME = "E:\\Chrome\\Software\\apache-maven-3.6.3-bin\\apache-maven-3.6.3"
 
 }
 
