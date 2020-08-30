@@ -1,0 +1,45 @@
+inputOne,inputTwo,operation,output,sessionId
+NA,NA,today,29/08/2020,E2F689B23BC540060045A2C40B1A1A04
+NA,NA,tomorrow,30/08/2020,E2F689B23BC540060045A2C40B1A1A04
+30/08/2020,2,subNmonths,30/06/2020,E2F689B23BC540060045A2C40B1A1A04
+inputOne,inputTwo,operation,output,sessionId
+NA,NA,today,29/08/2020,BA7568402A27AA888BB915562CE27B7F
+NA,NA,tomorrow,30/08/2020,BA7568402A27AA888BB915562CE27B7F
+inputOne,inputTwo,operation,output,sessionId
+NA,NA,today,29/08/2020,108BA5563AB315037DA7981BDD38A9B5
+NA,NA,tomorrow,30/08/2020,108BA5563AB315037DA7981BDD38A9B5
+inputOne,inputTwo,operation,output,sessionId
+NA,NA,today,29/08/2020,D531AD13DAE9183B367F8C4CBBEFC27E
+NA,NA,tomorrow,30/08/2020,D531AD13DAE9183B367F8C4CBBEFC27E
+inputOne,inputTwo,operation,output,sessionId
+NA,NA,today,29/08/2020,F89CF7BD997DC7EBAD8BA983A7F5D73E
+NA,NA,tomorrow,30/08/2020,F89CF7BD997DC7EBAD8BA983A7F5D73E
+inputOne,inputTwo,operation,output,sessionId
+NA,NA,today,29/08/2020,5D474F11465FA979A8D931FFC546655D
+NA,NA,tomorrow,30/08/2020,5D474F11465FA979A8D931FFC546655D
+inputOne,inputTwo,operation,output,sessionId
+NA,NA,today,29/08/2020,C2DFAA86FD7754AFA7EF6DC4A2D7A8CB
+NA,NA,tomorrow,30/08/2020,C2DFAA86FD7754AFA7EF6DC4A2D7A8CB
+inputOne,inputTwo,operation,output,sessionId
+NA,NA,today,29/08/2020,738B8B6CD7C4523C14EF50C9B74D96F2
+NA,NA,tomorrow,30/08/2020,738B8B6CD7C4523C14EF50C9B74D96F2
+01/01/2018,01/01/2018,addDates,02/02/4036,738B8B6CD7C4523C14EF50C9B74D96F2
+01/01/2018,01/01/2018,addDates,days=33, month = FEBRUARY, weeks = 4, date =02/02/4036,738B8B6CD7C4523C14EF50C9B74D96F2
+24/08/2020,2,subNweeks,10/08/2020,738B8B6CD7C4523C14EF50C9B74D96F2
+MONDAY,NA,dayOfWeek,10/08/2020,738B8B6CD7C4523C14EF50C9B74D96F2
+inputOne,inputTwo,operation,output,sessionId
+NA,NA,today,30/08/2020,null
+inputOne,inputTwo,operation,output,sessionId
+NA,NA,today,30/08/2020,null
+inputOne,inputTwo,operation,output,sessionId
+NA,NA,today,30/08/2020,null
+inputOne,inputTwo,operation,output,sessionId
+1/1/2000,1/1/2000,addDates,02/02/4000,null
+1/1/2000,1/1/2000,addDates,days=33, month = FEBRUARY, weeks = 4, date =02/02/4000,null
+inputOne,inputTwo,operation,output,sessionId
+NA,NA,today,30/08/2020,null
+inputOne,inputTwo,operation,output,sessionId
+1/1/2000,1/1/2000,addDates,02/02/4000,null
+1/1/2000,1/1/2000,addDates,days=33, month = FEBRUARY, weeks = 4, date =02/02/4000,null
+inputOne,inputTwo,operation,output,sessionId
+NA,NA,today,30/08/2020,null
