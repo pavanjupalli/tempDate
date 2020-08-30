@@ -1,10 +1,13 @@
 pipeline {
 agent any
 stages {
-stage ('Compile Stage') {
-steps {
-echo 'Project compiling'
-bat label:'compilation running',script:'mvn compile'
-}}
+stage('build') {
+      cmd_exec('echo "Buils starting..."')
+      cmd_exec('mvn compile')
+}
+
+def cmd_exec(command) {
+    return bat(returnStdout: true, script: "${command}").trim()
+}
 }
 }
