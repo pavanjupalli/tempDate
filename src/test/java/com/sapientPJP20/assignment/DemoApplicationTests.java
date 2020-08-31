@@ -41,7 +41,7 @@ class DemoApplicationTests {
 		
 		DateService dateService = new DateService();
 	    when(session.getAttribute("history")).thenReturn("history", new ArrayList<Action>());
-	    assertEquals(dateService.today(session),"30/08/2020");
+	    assertEquals(dateService.today(session),"31/08/2020");
 	    
 		
 	}
