@@ -8,8 +8,7 @@ environment {
 agent any
 stages {
 stage('build') {
-   steps{
-   bat label:'yaa', script:'mvn compile'
-}}
-}
-}
+steps{
+withMaven(maven : 'apache-maven-3.6.3') {
+bat'mvn clean compile'
+}}}}
